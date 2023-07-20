@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body {
+    /* background-color: gainsboro; */
+    background-color: #27374D;
+    font-family: 'Poppins';
+    min-width: 400px;
+}
+
+h1 {
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+}
